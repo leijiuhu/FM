@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/FM_title.ico</file>
+        <file>images/uploading.ico</file>
+        <file>images/del.ico</file>
+        <file>images/mod.ico</file>
+        <file>images/open.ico</file>
+        <file>images/search.ico</file>
+    </qresource>
+</RCC>
